@@ -1,6 +1,4 @@
 # HR-Data-Analytics
-“ ”
-
 # 🧾 Expected Salary Prediction Using Regression
 
 ## 📌 Objective
